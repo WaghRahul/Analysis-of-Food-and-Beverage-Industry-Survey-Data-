@@ -1,7 +1,6 @@
 # Analysis of Food and Beverage Industry Survey Data
 
-***Overview***
-This analysis provides insights into consumer preferences, consumption patterns, and brand perceptions within the F&B industry. Key areas explored include brand awareness, taste experiences, purchase locations, reasons for consumption, and brand health concerns.
+***Overview:-*** This analysis provides insights into consumer preferences, consumption patterns, and brand perceptions within the F&B industry. Key areas explored include brand awareness, taste experiences, purchase locations, reasons for consumption, and brand health concerns.
 
 ***Key Features***
 * Analyzed respondent demographics including age, gender, and location.
